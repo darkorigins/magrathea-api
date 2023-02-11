@@ -1,0 +1,2 @@
+apt install libemail-address-perl libnet-telnet-perl libtext-autoformat-perl cpanminus
+cpanm Magrathea::API
